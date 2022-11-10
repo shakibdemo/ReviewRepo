@@ -6,5 +6,9 @@ public class ReviewClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void test() {
+		System.out.println("This method is on Review Session branch");
+	}
 
 }
